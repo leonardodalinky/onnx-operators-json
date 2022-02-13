@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# tmp python file
+tmp_*.py
+
+op_jsons/
