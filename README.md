@@ -101,6 +101,7 @@ TypeConstraintParam :=
 Example of operators:
 <details>
 <summary>Operator of ConvTranspose</summary>
+
 ```json
 {
     "name": "ConvTranspose",
